@@ -7,7 +7,7 @@
 ## Навыки и технологии
 ``Jira``, ``Confluencs``, ``Qase.io``, ``SQL``, ``Postman``, `Sitechco`, ``Mockoon``, ``Trello``, <br> 
 ``Swagger``, ``SoapUI``, ``Chrome DevTools``, ``pgAdmin``, ``Notion``, ``JMeter``, ``GIT``, <br> 
-``Charles``,``Android Studio``, ``HTML``, ``CSS``.
+``Jenkins``,``Charles``,``Android Studio``, ``HTML``, ``CSS``.
 
 ## Проекты
 ### <b>Проект №1: Тест функционала "Личные события" в веб-приложении для учителей от Skyeng</b><br>
